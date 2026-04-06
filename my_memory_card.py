@@ -1,3 +1,10 @@
+
+
+print("Hello world!")
+
+
+
+
 # Імпорт потрібних класів із бібліотеки PyQt5
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (QApplication, QWidget,
